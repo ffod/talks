@@ -12,9 +12,9 @@
 
 # Kontakt
 
-* jabber: andibraeu@jabber.weimarnetz.de
-* twitter: @evAltenberga
-* blog: https://blog.andi95.de
+* jabber: kst@jabber.ccc.de
+* twitter: @kst87
+* blog: https://kst87.de
 
 # Vielen Dank!
 
