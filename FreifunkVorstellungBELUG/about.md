@@ -2,7 +2,6 @@
 
 ----
 
-* Andreas Bräu, Berlin, Germany 
-* Softwareentwickler und Datenbankspezialist
-* Freifunker seit 2006
-* Maschinenstricker
+* Kaj-Simon Töde, Rethwisch, Germany 
+* Netzwerk- und Systemadministrator
+* Freifunker seit 2015
