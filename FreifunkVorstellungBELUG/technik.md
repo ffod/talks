@@ -67,7 +67,7 @@ Note:
 
 wie ein großer Switch
 
-in Berlin: Kombination beider Alternativen
+in Stormarn nutzen wir BATMAN.
 
 --
 
